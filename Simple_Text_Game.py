@@ -1,5 +1,5 @@
 
-# Miles McGranahan
+
 
 rooms = {
     'Great Hall': {'South': 'Bedroom'},
